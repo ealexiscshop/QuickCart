@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QuickCounterView">
+        <attr name="counterValue" format="integer" />
+        <attr name="counterPadding" format="dimension" />
+        <attr name="expanded" format="boolean" />
+    </declare-styleable>
+</resources>
